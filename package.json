@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kwliang1/defi/issues"
   },
-  "homepage": "https://github.com/kwliang1/defi#readme"
+  "homepage": "https://github.com/kwliang1/defi#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1"
+  }
 }
