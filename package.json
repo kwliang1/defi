@@ -1,0 +1,19 @@
+{
+  "name": "defi",
+  "version": "1.0.0",
+  "description": "git status",
+  "main": "npm init",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwliang1/defi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwliang1/defi/issues"
+  },
+  "homepage": "https://github.com/kwliang1/defi#readme"
+}
